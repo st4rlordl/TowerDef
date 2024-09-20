@@ -1,5 +1,5 @@
 function love.conf(t)
-    t.window.title = "Game"
+    t.window.title = "TowerDef"
     t.identity = "data/saves"
     t.versions = "0.0.1"
     t.window.icon = "icon/game_icon.jpg"
